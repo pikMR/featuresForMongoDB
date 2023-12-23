@@ -1,0 +1,10 @@
+
+.vs/
+
+packages/
+
+bin/
+
+obj/
+
+GenerateGuidToBase64.csproj.user
